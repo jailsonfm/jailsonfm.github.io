@@ -2,7 +2,6 @@
 layout: post
 title: "The five capitals for sustainability"
 subtitle: "Their importance to achience sustainability goals."
-date: 2023-05-15 12:45:13 -0400
 background: '/img/posts/01.jpg'
 ---
 
