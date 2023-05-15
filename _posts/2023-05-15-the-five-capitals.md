@@ -2,7 +2,7 @@
 layout: post
 title: "The five capitals for sustainability"
 subtitle: "Their importance to achience sustainability goals."
-background: '/img/posts/01.jpg'
+background: '/img/posts/07.jpg'
 ---
 
 ## General
