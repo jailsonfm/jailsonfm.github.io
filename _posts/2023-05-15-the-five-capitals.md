@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The five capitals for sustainability"
+title: "The five capitals for sustainability_now"
 subtitle: "Their importance to achience sustainability goals."
 background: '/img/posts/07.jpg'
 ---
