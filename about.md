@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me hete
+title: About Me hete LOL
 description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
