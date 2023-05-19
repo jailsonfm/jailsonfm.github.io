@@ -17,7 +17,7 @@ Furthermore, access to networks and connections can also play a role in job oppo
 
 To address inequality in job opportunities, a multi-pronged approach is needed. This includes investing in education and job training programs that are accessible to everyone, regardless of their background. It also means addressing discrimination and bias in the hiring process and on the job, and providing support and resources to those who face systemic barriers. Finally, it means creating more opportunities for people from underrepresented groups to build strong professional networks and connections, so that they have equal access to job opportunities. Only by taking a comprehensive approach can we create a more equitable society where everyone has access to the same job opportunities, regardless of their background.
 
-```
+``` r
 Here is the code
 plot(1,2) # Nice plor
 ```
