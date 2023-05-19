@@ -25,3 +25,6 @@ The concept of sustainability refers to meeting the needs of the present generat
 5. Financial Capital: Financial capital refers to the money, credit, and investments that enable economic activities and support the other four capitals. Financial capital is critical for sustainable development as it provides the resources necessary to invest in natural, human, social, and physical capital. It is important to manage financial capital in a way that promotes long-term sustainability and avoids short-termism, which can lead to unsustainable practices.
 
 In conclusion, the five capitals of sustainability are interdependent and must be managed holistically to promote sustainable development. By investing in natural, human, social, physical, and financial capital, societies can build a more sustainable future for generations to come.
+
+
+```{}
