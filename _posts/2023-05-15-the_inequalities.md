@@ -27,3 +27,6 @@ select(var1, var) %>%
 filter(rr == "tst") %>%
 plot
 ```
+
+
+<iframe src="/img/posts/inequalities/test_plotly.html"></iframe>
