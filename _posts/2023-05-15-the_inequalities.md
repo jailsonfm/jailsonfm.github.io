@@ -18,12 +18,52 @@ Furthermore, access to networks and connections can also play a role in job oppo
 To address inequality in job opportunities, a multi-pronged approach is needed. This includes investing in education and job training programs that are accessible to everyone, regardless of their background. It also means addressing discrimination and bias in the hiring process and on the job, and providing support and resources to those who face systemic barriers. Finally, it means creating more opportunities for people from underrepresented groups to build strong professional networks and connections, so that they have equal access to job opportunities. Only by taking a comprehensive approach can we create a more equitable society where everyone has access to the same job opportunities, regardless of their background.
 
 ``` r
+# LIBRARIES
+library(plotly)
 library(ggplot2)
-Here is the code
-plot(1,2) # Nice plot
 
-pop <- datase %>%
-select(var1, var) %>%
-filter(rr == "tst") %>%
-plot
+set.seed(100) # seed
+
+# LOADING DATA
+dia_df <- diamonds[sample(nrow(diamonds), 1000), ]
+
+# PLOTTING with GGPLOT
+dia_plot <- ggplot(data = dia_df, aes(x = carat, y = price)) +
+        geom_point(aes(text = paste("Clarity:", clarity)), size = 4) +
+        geom_smooth(aes(colour = cut, fill = cut)) + facet_wrap(~ cut)
+
+# DYNAMIC PLOTLY PLOTTING STYLE
+plly <- ggplotly(dia_plot)
+
+# SAVING THE PLOT AND HTML FILES
+htmlwidgets::saveWidget(as_widget(plly), "/Users/jfu/Downloads/Photos-001/pe.html")
+
+# DISPLAY FIGURE IN DYNAMIC FORMAT
+<iframe src="/filelocation.html" height="800px" width="100%"></iframe>
 ```
+
+
+<iframe src="/img/posts/inequalities/plot_out.html" height="600px" width="100%"></iframe>
+
+
+
+
+``` r
+library(plotly)
+library(dplyr)
+library(gapminder)
+
+data <- gapminder %>% filter(year=="2007") %>% dplyr::select(-year)
+
+# Most basic bubble plot
+p <- data %>%
+      arrange(desc(pop)) %>%
+      mutate(country = factor(country, country)) %>%
+      ggplot(aes(x=gdpPercap, y=lifeExp, size=pop, color=continent)) +
+        geom_point(alpha=0.5) +
+        scale_size(range = c(.1, 24), name="Population (M)")
+
+ggplotly(p)
+```
+
+<iframe src="/img/posts/inequalities/plot_gapm.html" height="500px" width="100%"></iframe>
