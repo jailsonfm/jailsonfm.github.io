@@ -29,4 +29,5 @@ plot
 ```
 
 
-<iframe src="/img/posts/inequalities/test_plotly.html"></iframe>
+
+<iframe src="/img/posts/inequalities/test_plotly.html" height="800px" width="100%"></iframe>
