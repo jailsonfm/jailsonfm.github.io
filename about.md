@@ -16,7 +16,6 @@ Early in my PhD I...
 <a href="https://jailsonfm.github.io/img/moura_resume.pdf" title="doanload" download><b><span style="background-color:#000000"><span style="color:white">-DOWNLOAD-</span></span>
 
 
-Cyan Text</span>
 
 ## <span style="color:blue">**EXPERIENCE**</span>
  
