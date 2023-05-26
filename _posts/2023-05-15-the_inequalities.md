@@ -34,4 +34,3 @@ References:
 - Tesla: https://www.tesla.com/
 - Vestas: https://www.vestas.com/
 - European Commission: https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en
--
