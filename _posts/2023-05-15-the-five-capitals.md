@@ -7,6 +7,9 @@ background: '/img/posts/07.jpg'
 
 Title: "Redefining Success: Unleashing the Five Capitals for a Sustainable Future"
 
+<span style="color:#00F000;">This text is black.</span>
+
+
 **Introduction:**
 In today's world, success is often measured solely in terms of financial gains and economic growth. However, this narrow perspective fails to account for the long-term well-being of our planet and society. To achieve true sustainability, we must shift our focus towards a holistic approach that considers not just financial capital, but also natural, human, social, and manufactured capitals. This article delves into the concept of the five capitals for sustainability, highlighting the challenges they present and the urgent need to reshape our economy for profitability, social justice, and environmental preservation.
 
