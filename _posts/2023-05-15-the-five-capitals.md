@@ -13,6 +13,8 @@ Title: "Redefining Success: Unleashing the Five Capitals for a Sustainable Futur
 <span style="color:#00a896;">**Introduction:**</span> The Backbone of our Existence
 In today's world, success is often measured solely in terms of financial gains and economic growth. However, this narrow perspective fails to account for the long-term well-being of our planet and society. To achieve true sustainability, we must shift our focus towards a holistic approach that considers not just financial capital, but also natural, human, social, and manufactured capitals. This article delves into the concept of the five capitals for sustainability, highlighting the challenges they present and the urgent need to reshape our economy for profitability, social justice, and environmental preservation.
 
+<iframe src="/img/five_capitals/five_capitals.svg" height="800px" width="100%"></iframe>
+
 <span style="color:#00a896;">Natural Capital:</span> The Backbone of our Existence
 Our natural capital encompasses the Earth's resources such as forests, water, minerals, and biodiversity. Unfortunately, our relentless exploitation of these resources has resulted in environmental degradation, climate change, and loss of biodiversity. To preserve our natural capital, we must adopt sustainable practices, protect ecosystems, and transition to renewable energy sources. For instance, Costa Rica's innovative Payment for Ecosystem Services (PES) program has successfully incentivized forest conservation and sustainable land use (Wunder, 2005).
 
