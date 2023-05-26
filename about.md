@@ -8,12 +8,15 @@ background: '/img/bg-about.jpg'
 [comment]: <> (Download buttom here below
 <a href="https://jailsonfm.github.io/img/moura_resume.pdf" title="doanload" download><b><span style="background-color:#000000"><span style="color:white">-DOWNLOAD HERE MY RESUME-</span></span>
 
-Biologist, passionate on the ocean realm and its mechanics, including the fundamental source of planetary forms of life. The link between the ecosystems and human health was later highlighted when reading an article published in the Oceanography Journal: [Overview of the Oceans and Human Health](https://tos.org/oceanography/assets/docs/19-2_fleming.pdf). The topic ocean and human health fascinated me not only because it describes ne negative feedback as a consequence of the ocean mismanagement, but also due to the benefits of keeping the system healthy. This topic stimulated to start a master, and subsequently a PhD in Public Health and Environment, in the [National School of Public Heath (ENSP)](http://ensp.fiocruz.br/), from the Fiocruz Foundation, one of the most prestige public Health institution in Latin America. 
-After finishing my PhD I started a postdoctorate position an the Leibniz centre for atropical marine reserarch, in Bremen
+As a biologist, I have a deep passion for the ocean realm and its intricate mechanics, which serve as the fundamental source of planetary life forms. My awareness of the crucial link between ecosystems and human health was sparked when I came across an enlightening article published in the Oceanography Journal titled ["Overview of the Oceans and Human Health"](https://tos.org/oceanography/assets/docs/19-2_fleming.pdf). This captivating topic fascinated me, not only because it shed light on the negative repercussions of ocean mismanagement but also due to the tremendous benefits that arise from maintaining a healthy marine system.
 
-Early in my PhD I...
+This newfound fascination compelled me to embark on a journey of knowledge and exploration. I pursued a master's degree, followed by a Ph.D., in Public Health and Environment at the esteemed [National School of Public Heath (ENSP)](http://ensp.fiocruz.br/) within the Fiocruz Foundation — a renowned public health institution in Latin America. During my academic pursuits, I delved into understanding the complex interactions between oceanic ecosystems and human well-being.
 
+Upon completing my Ph.D., I embarked on a postdoctoral position at the Leibniz Centre for Tropical Marine Research (ZMT) in Bremen. This opportunity allowed me to engage in a wide array of studies, ranging from investigating the impact of chemical pollutants on marine species to grappling with the global dilemma of plastic pollution in our oceans. Additionally, I explored the concept of the blue economy, aiming to develop sustainable practices to support coastal fishery management in Senegal.
 
+Currently, I find myself at an intriguing crossroads, transitioning towards a career in business sustainability management. This shift stems from my deep desire to contribute to the global transformation by helping organizations achieve positive impacts while addressing the pressing challenges we face.
+
+Through my diverse experiences and expertise, I am driven to make a meaningful difference in promoting the health and sustainability of our planet. By combining scientific knowledge with management principles, I aim to play a vital role in shaping a future where business practices align with environmental stewardship and foster a positive impact for generations to come.
 
 
 ## <span style="color:blue">**EXPERIENCE**</span>
