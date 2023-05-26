@@ -33,7 +33,7 @@ The five capitals for sustainability offer a holistic framework that challenges 
 
 ### <span style="color:#1277dd;">References:</span> 
 - Hawken, P., Lovins, A., & Lovins, L. H. (1999). Natural capitalism: Creating the next industrial revolution. New York, NY: Little, Brown, and Company. \\
-McCamant, K., & Durrett, C. (2011). Cohousing: A contemporary approach to housing ourselves. Berkeley, CA: Ten Speed Press. \\
-OECD. (2019). Education at a Glance 2019: OECD Indicators. Paris: OECD Publishing. \\
-Triodos Bank. (n.d.). Triodos Bank: Sustainable Banking for a Better World. Retrieved from https://www.triodos.com/ \\
-Wunder, S. (2005). Payments for environmental services: Some nuts and bolts. CIFOR Occasional Paper No. 42. Bogor, Indonesia: Center for International Forestry Research.
+- McCamant, K., & Durrett, C. (2011). Cohousing: A contemporary approach to housing ourselves. Berkeley, CA: Ten Speed Press. \\
+- OECD. (2019). Education at a Glance 2019: OECD Indicators. Paris: OECD Publishing. \\
+- Triodos Bank. (n.d.). Triodos Bank: Sustainable Banking for a Better World. Retrieved from https://www.triodos.com/ \\
+- Wunder, S. (2005). Payments for environmental services: Some nuts and bolts. CIFOR Occasional Paper No. 42. Bogor, Indonesia: Center for International Forestry Research.
