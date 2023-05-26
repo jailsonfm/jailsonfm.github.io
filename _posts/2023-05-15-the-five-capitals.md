@@ -32,12 +32,8 @@ Financial capital is undoubtedly important for economic growth, but it should no
 The five capitals for sustainability offer a holistic framework that challenges our current economic paradigm. Achieving profitability, social justice, and environmental sustainability requires us to recognize the interdependence of these capitals and reshape our economy accordingly. By adopting sustainable practices, investing in human and social capital, redesigning our manufacturing processes, and aligning financial goals with sustainability, we can pave the way for a future where economic success is measured not only in financial terms but also in the well-being of our planet and society.
 
 ### <span style="color:#1277dd;">References:</span> 
-- Hawken, P., Lovins, A., & Lovins, L. H. (1999). Natural capitalism: Creating the next industrial revolution. New York, NY: Little, Brown, and Company.\\
-
-McCamant, K., & Durrett, C. (2011). Cohousing: A contemporary approach to housing ourselves. Berkeley, CA: Ten Speed Press.
-
-OECD. (2019). Education at a Glance 2019: OECD Indicators. Paris: OECD Publishing.
-
-Triodos Bank. (n.d.). Triodos Bank: Sustainable Banking for a Better World. Retrieved from https://www.triodos.com/
-
+- Hawken, P., Lovins, A., & Lovins, L. H. (1999). Natural capitalism: Creating the next industrial revolution. New York, NY: Little, Brown, and Company. \\
+McCamant, K., & Durrett, C. (2011). Cohousing: A contemporary approach to housing ourselves. Berkeley, CA: Ten Speed Press. \\
+OECD. (2019). Education at a Glance 2019: OECD Indicators. Paris: OECD Publishing. \\
+Triodos Bank. (n.d.). Triodos Bank: Sustainable Banking for a Better World. Retrieved from https://www.triodos.com/ \\
 Wunder, S. (2005). Payments for environmental services: Some nuts and bolts. CIFOR Occasional Paper No. 42. Bogor, Indonesia: Center for International Forestry Research.
