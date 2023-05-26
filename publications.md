@@ -5,8 +5,6 @@ description: This is what I do.
 background: '/img/bg-publications.jpg'
 ---
 
-
-
 SCIENTIFC PEER-REVIEWED PUBLICATIONS
 
 67. Vidal, M.D., Santos, P.M.C., Marmontel, M., Moura, J.F. and Siciliano, S. (2022) Easy food in the jungle: evaluating presence and relationships of Amazon River dolphin (Inia geoffrensis) at a provisioning site in the Amazon, Brazil. Latin American Journal of Aquatic Mammals 17(1): 43-50. https://doi.org/10.5597/ lajam00282
