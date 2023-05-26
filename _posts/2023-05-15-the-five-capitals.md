@@ -2,7 +2,7 @@
 layout: post
 title: "Redefining Success: Unleashing the Five Capitals for a Sustainable Future"
 subtitle: "Their importance to achience sustainability goals."
-background: '/img/posts/07.jpg'
+background: '/img/posts/five_capitals/five_cap_main.jpg'
 ---
 
 [comment]: <> (Redefining Success: Unleashing the Five Capitals for a Sustainable Future)
