@@ -18,6 +18,8 @@ This plastic waste poses an acute threat to the oceans, as many marine creatures
 Private initiatives such as the Dutch organization "Ocean Cleanup" have developed technology to rid the seas of plastic. Using 600-meter-long floating barriers, floating garbage collectors are intended to fish out plastic particles as small as one millimeter from the ocean's surface and remove them from the water. A ship transports the collected waste back to land, where it is either burned or recycled. "Ocean Cleanup" aims to clean up the "Pacific Garbage Patch" in the North Pacific, the largest garbage gyre in the oceans, within 20 years. 
 [My colleagues and I from the Leibniz Centre for Tropical Marine Research, **(06)**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720346441?via%3Dihub). We analyzed the effectiveness of implementing such garbage collectors using mathematical models. We compared the expected impact of the new technology on the amount of plastic waste in the oceans within the next 130 years (from 2020 to 2150) under various scenarios, including no cleaning efforts (Business as Usual), the use of one or 200 plastic collectors, and the utilization of floating river barriers. According to our calculations, a garbage collector moving at approximately 600 meters per hour could clean a sea surface of nearly 2,700 square kilometers in a year, which corresponds to 0.00073 percent of the total surface area of the oceans.
 
+![image info](/img/posts/plastic_oceans/scheme_plastic.jpg)
+
 
 <span style="color:#1277dd;">**A fraction of a complex and challenging problem**</span> 
 
@@ -29,14 +31,14 @@ The garbage collectors are well-intentioned but not very effective, since our re
 
 <span style="color:#1277dd;">**REFERENCES:**</span> 
 
-- Jambeck, J.R.,  Geyer, R., Wilcox, C., et al. ,Plastic waste inputs from land into the ocean.Science347,768-771(2015).Doi:[**10.1126/science.1260352**](https://www.science.org/doi/10.1126/science.1260352)
+1. Jambeck, J.R.,  Geyer, R., Wilcox, C., et al. ,Plastic waste inputs from land into the ocean.Science347,768-771(2015).Doi:[**10.1126/science.1260352**](https://www.science.org/doi/10.1126/science.1260352)
 
-- Eriksen M, Lebreton LCM, Carson HS, Thiel M, Moore CJ, Borerro JC, et al. (2014) Plastic Pollution in the World's Oceans: More than 5 Trillion Plastic Pieces Weighing over 250,000 Tons Afloat at Sea. PLoS ONE 9(12): e111913. Doi: [**10.1371/journal.pone.0111913**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111913)
+2. Eriksen M, Lebreton LCM, Carson HS, Thiel M, Moore CJ, Borerro JC, et al. (2014) Plastic Pollution in the World's Oceans: More than 5 Trillion Plastic Pieces Weighing over 250,000 Tons Afloat at Sea. PLoS ONE 9(12): e111913. Doi: [**10.1371/journal.pone.0111913**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111913)
 
-- Tavares, D.C., Moura, J.F., Ceesay, A., Merico, A. (2020) Density and composition of surface and buried plastic debris in beaches of Senegal. Science of The Total Environment 737. doi: [**10.1016/j.scitotenv.2020.139633**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720331533?via%3Dihub)
+3. Tavares, D.C., Moura, J.F., Ceesay, A., Merico, A. (2020) Density and composition of surface and buried plastic debris in beaches of Senegal. Science of The Total Environment 737. doi: [**10.1016/j.scitotenv.2020.139633**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720331533?via%3Dihub)
 
-- Tavares, D.C., Moura, J.F., Merico, A., et al (2017) Incidence of marine debris in seabirds feeding at different water depths. Mar. Pollut. Bull. 19, 68–73. doi:[**10.1016/j.marpolbul.2017.04.012**](https://www.sciencedirect.com/science/article/abs/pii/S0025326X17303053)
+4. Tavares, D.C., Moura, J.F., Merico, A., et al (2017) Incidence of marine debris in seabirds feeding at different water depths. Mar. Pollut. Bull. 19, 68–73. doi:[**10.1016/j.marpolbul.2017.04.012**](https://www.sciencedirect.com/science/article/abs/pii/S0025326X17303053)
 
-- Tavares, D.C., Moura, J.F., Merico, A., 2019. Anthropogenic debris accumulated in nests of seabirds in an uninhabited island in West Africa. Biological Conservation, 236, 586-592. doi: [**10.1016/j.biocon.2019.05.043**](https://www.sciencedirect.com/science/article/abs/pii/S0006320719303672)
+5. Tavares, D.C., Moura, J.F., Merico, A., 2019. Anthropogenic debris accumulated in nests of seabirds in an uninhabited island in West Africa. Biological Conservation, 236, 586-592. doi: [**10.1016/j.biocon.2019.05.043**](https://www.sciencedirect.com/science/article/abs/pii/S0006320719303672)
 
-- Hohn, S., Acevedos-Trejos, E., Abrams, J.F., Moura, J.F., et al. (2020) The long-term legacy of plastic mass production, Science of the Total Environment 746: 141115. doi: [**10.1016/j.scitotenv.2020.141115**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720346441)
+6. Hohn, S., Acevedos-Trejos, E., Abrams, J.F., Moura, J.F., et al. (2020) The long-term legacy of plastic mass production, Science of the Total Environment 746: 141115. doi: [**10.1016/j.scitotenv.2020.141115**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720346441)
