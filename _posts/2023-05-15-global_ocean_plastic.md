@@ -20,7 +20,6 @@ Private initiatives such as the Dutch organization "Ocean Cleanup" have develope
 
 ![image info](/img/posts/plastic_oceans/scheme_plastic.jpg)
 
-
 <span style="color:#1277dd;">**A fraction of a complex and challenging problem**</span> 
 
 The model projections revealed that without the use of any technologies, the amount of surface plastic in the oceans is estimated to triple within 40 years. However, the use of 200 garbage collectors by 2150 could potentially reduce the surface plastic accumulation by about 44,900 tons. This represents a little over five percent of the estimated global total until the end of this period, what we consider a relatively small contribution considering the increasing of plastic entering the ocean.
