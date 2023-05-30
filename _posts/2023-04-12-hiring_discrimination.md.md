@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Discrimination in Hiring Processes: Paving the Way for Sustainable Goals and Social Justice in Business"
-subtitle: " "
-background: '\img/posts/hiring_discrimination/hiring_discrimination.jpg'
+subtitle: "  "
+background: '\img/posts/hiring_discrimination/hiring_discrimination.jpg' 
 ---
 
 
