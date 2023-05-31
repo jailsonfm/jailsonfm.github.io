@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Discrimination in Hiring Processes: Paving the Way for Sustainable Goals and Social Justice in Business"
-subtitle: "  "
+subtitle: " "
 background: '\img/posts/hiring_discrimination/hiring_discrimination.jpg' 
 ---
 
 
-### Introduction
+### Introduction 
 
 In the pursuit of sustainable goals and social justice, it is imperative to address the systemic barriers and biases that persist in various aspects of society. One area that demands urgent attention is the hiring process, where racial discrimination continues to undermine efforts towards inclusivity and equality. In this article, we will delve into the issue of racism in hiring processes, backed by data and citations, and discuss its implications for achieving sustainable goals while fostering a business environment grounded in social justice.
 
@@ -52,7 +52,7 @@ Provide training to hiring managers and employees to raise awareness about impli
 **Support Community Initiatives**
 Actively engage with local communities and support initiatives that bridge the opportunity gap for individuals from marginalized backgrounds. Partnering with educational institutions and organizations can help foster a more diverse talent pipeline.
 
-### Conclusion
+### Conclusions
 
 Addressing racism in hiring processes is crucial for achieving sustainable goals and creating a business environment that embraces social justice. By acknowledging the presence of racial biases, organizations can take proactive steps to level the playing field, promote diversity and inclusion, and ultimately foster an inclusive workplace culture that benefits both employees and the business as a whole. Embracing diversity and eliminating racism in hiring is not only the right thing to do; it is also a strategic imperative for organizations committed to sustainable growth and positive societal impact.
 
