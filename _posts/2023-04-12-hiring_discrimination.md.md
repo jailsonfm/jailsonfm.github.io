@@ -8,11 +8,18 @@ background: '\img/posts/hiring_discrimination/hiring_discrimination.jpg'
 
 ### Introduction 
 
-In the pursuit of sustainable goals and social justice, it is imperative to address the systemic barriers and biases that persist in various aspects of society. One area that demands urgent attention is the hiring process, where racial discrimination continues to undermine efforts towards inclusivity and equality. In this article, we will delve into the issue of racism in hiring processes, backed by data and citations, and discuss its implications for achieving sustainable goals while fostering a business environment grounded in social justice.
+In the pursuit of sustainable goals and social justice, it is imperative to address the systemic barriers and biases that persist in various aspects of society. One area that demands urgent attention is the hiring process, where racial discrimination continues to undermine efforts towards inclusivity and equality. In this article, we will delve into the issue of discrimination in hiring processes, backed by data and citations, and discuss its implications for achieving sustainable goals while fostering a business environment grounded in social justice.
 
 ### Understanding the Reality: Racism in Hiring Processes
 
-Despite significant progress towards diversity and inclusion, racial discrimination remains a persistent problem in hiring processes. Studies have repeatedly shown that job applicants from ethnic minority backgrounds face biases that negatively impact their chances of securing employment.
+Despite significant progress towards diversity and inclusion, racial and ethnic discrimination remains a persistent problem in hiring processes. Studies have repeatedly shown that job applicants from ethnic minority backgrounds face biases that negatively impact their chances of securing employment. A recent study examined the discrimination in the hiring process with data from six western countries (Canada, France, Germany, Great Britain, the Netherlands, and the United States). Sadly, the study delivered results contradicting the expected effort to reduce inequalities and embrace diversity in corporation and new anti-discrimination legislation. The result doesn't show any improvements in solving the problem that keed unchanged over the last five decades. It means that racial-ethnic groups like "African/Black" and "Latin American/Hispanic" need to go for considerable extra effort to get hired when compared to a native white applicant.
+
+![image info](/img/posts/hiring_discrimination/figure_study.jpeg)
+We may interpret the discrimination ratios shown in the figure above, as the expected number of applications a non-White applicant must submit to expect the same number of callbacks as a similar White applicant (see Materials and Methods). Larger numbers indicate higher levels of discrimination. A score of 1.5 means a non-White applicant must submit 50% more applications to receive the same naumber of callbacks as comparable native White applicant.
+
+The lack of decline in discrimination in five of the six countries we examine, despite new anti-discrimination legislation, adoption of hiring practices aiming to increase diversity in many large corporations, and some evidence of attitudinal changes, is disturbing.
+
+racial-ethnic origin groups: African/Black, Asian, Latin American/Hispanic, and Middle Eastern or North African. 
 
 **Discrimination in Resumes**
 Research conducted by Marianne Bertrand and Sendhil Mullainathan revealed how the mere perception of a candidate's racial or ethnic background can lead to discriminatory hiring decisions. Their groundbreaking study found that resumes with distinctively African-American or Hispanic names received significantly fewer callbacks than those with Anglo-Saxon names, despite identical qualifications.
