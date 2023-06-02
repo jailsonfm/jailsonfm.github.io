@@ -5,8 +5,14 @@ description: This is what I do.
 background: '/img/bg-publications.jpg'
 ---
 
-SCIENTIFC PEER-REVIEWED PUBLICATIONS
+## SCIENTIFC PEER-REVIEWED PUBLICATIONS
 
+Here you can see the my list of publications. Below is a summary of my publications. In the left is a figure showing the number of publications by years and impact fators, also highlighting the Journal with the highest impact factor for the year. On the right ia a summary of my publications by research team. The size of the ball represent the most relevant topics.
+
+![image info](/img/publications/publications.svg)
+
+
+**Publication list**
 67. Vidal, M.D., Santos, P.M.C., Marmontel, M., Moura, J.F. and Siciliano, S. (2022) Easy food in the jungle: evaluating presence and relationships of Amazon River dolphin (Inia geoffrensis) at a provisioning site in the Amazon, Brazil. Latin American Journal of Aquatic Mammals 17(1): 43-50. Doi: [**10.5597/lajam00282**](https://lajamjournal.org/index.php/lajam/article/view/1439)
 66. Moura, J.F., Tavares, D.C. Acevedo-Trejos, E., Zhang, Y., Jaeglé, L., Merico, A. (2020) A global assessment of mercury accumulation in cetaceans. PNAS #2020-14524. (under review)
 65. Hohn, S., Acevedos-Trejos, E., Abrams, J.F., Moura, J.F., Spranz, R., Merico, A. (2020) The long-term legacy of plastic mass production, Science of the Total Environment 746: 141115. doi: [**10.1016/j.scitotenv.2020.141115**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720346441)
