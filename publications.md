@@ -13,6 +13,8 @@ Here you can see the my list of publications. Below is a summary of my publicati
 
 
 **Publication list**
+
+68. Lavandier, R.C.; Arêas, J.; Lemos, L.S.; de Moura, J.F.; Taniguchi, S.; Montone, R.; Quinete, N.S.; Hauser-Davis, R.A.; Siciliano, S.; Moreira, I. Trophic Chain Organochlorine Pesticide Contamination in a Highly Productive Upwelling Area in Southeastern Brazil. International Journal of Environmental Research and Public Health 2023, 20, 6343. doi: [**10.3390/ijerph20146343**](https://doi.org/10.3390/ijerph20146343)
 67. Vidal, M.D., Santos, P.M.C., Marmontel, M., Moura, J.F. and Siciliano, S. (2022) Easy food in the jungle: evaluating presence and relationships of Amazon River dolphin (Inia geoffrensis) at a provisioning site in the Amazon, Brazil. Latin American Journal of Aquatic Mammals 17(1): 43-50. Doi: [**10.5597/lajam00282**](https://lajamjournal.org/index.php/lajam/article/view/1439)
 66. Moura, J.F., Tavares, D.C. Acevedo-Trejos, E., Zhang, Y., Jaeglé, L., Merico, A. (2020) A global assessment of mercury accumulation in cetaceans. PNAS #2020-14524. (under review)
 65. Hohn, S., Acevedos-Trejos, E., Abrams, J.F., Moura, J.F., Spranz, R., Merico, A. (2020) The long-term legacy of plastic mass production, Science of the Total Environment 746: 141115. doi: [**10.1016/j.scitotenv.2020.141115**](https://www.sciencedirect.com/science/article/abs/pii/S0048969720346441)
