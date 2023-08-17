@@ -6,7 +6,9 @@ background: '/img/posts/whale_stranded/humpback_whale_stranded_buzios_icon.png'
 ---
 
 
-<span style="color:#1277dd;">**Introduction:**</span>
+<span style="color:#1277dd;">**Guardians of the Deep: A Tale of Leadership, Hope, and the Stranded Giant**</span>
+
+![image info](/img/posts/whale_stranded/whale_fluke_buzios.jpg)
 
 While delving into the depths of my old photographs, I stumbled upon a chapter of my life that had the profound impact of molding my leadership style and honing my communication prowess. Transporting myself back to 2010, I was faced with an extraordinary challenge - the privilege of spearheading a project with a seemingly impossible mission: monitoring an extensive 800 km stretch of coastline on a daily basis. Yes, you read that right.
 
@@ -15,6 +17,9 @@ This venture was no ordinary endeavor; its grand objective was to unearth the po
 But the narrative didn't end there. Picture this: amidst our tireless efforts, a pivotal moment arrived - a moment that encapsulated the very essence of leadership under pressure. I received an urgent call during a routine meeting, informing me that a colossal 15-meter-long whale was stranded, gasping for breath, on the shores of the renowned international beach, Geribá in Búzios. Armed with a modest toolkit, I raced to the scene, only to find the majestic creature battling for its life, its very organs compressed by its massive weight. Yet, the expectations were astronomical - a cacophony of anticipations for helicopters, state-of-the-art vessels, and a grand rescue operation. What they got instead was a person armed with nothing more than a mobile phone and a box of tools.
 
 As the situation unfolded, my team and I didn't merely stand on the sidelines; we engaged the public in our noble mission. Together, we labored to keep the stranded giant hydrated while meticulously evaluating every possible avenue and its ramifications. The obvious first step was reaching out to the foremost specialists, seeking their insights. Predictably, many dismissed the prospect of the whale surviving even if successfully maneuvered back into the ocean's embrace. Yet, resigning to the inevitability of its demise was never an option.
+
+![image info](/img/posts/whale_stranded/whale_people_buzios.jpg)
+
 
 In an inspiring display of unity, we erected a makeshift camp, enlisting young and valiant souls to become the whale's guardians. These passionate individuals dedicated themselves to maintaining the creature's hydration around the clock, accompanied by uplifting songs and nourishing sustenance. As for me, I carved out a corner within the tent, where I assumed my vigil over the situation.
 
