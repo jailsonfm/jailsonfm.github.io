@@ -2,7 +2,7 @@
 layout: post
 title: "Guardians of the Deep: A Tale of Leadership, Hope, and the Stranded Giant"
 subtitle: " "
-background: '/img/posts/whale_stranded/humpback_whale_stranded_buzios.png'
+background: '/img/posts/whale_stranded/humpback_whale_stranded_buzios_icon.png'
 ---
 
 
